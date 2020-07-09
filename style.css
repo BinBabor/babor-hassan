@@ -1,0 +1,38 @@
+#love{
+text-align: center;
+color:rgb(163, 36, 114);
+font-size: medium;
+background-color: rgb(83, 34, 59);
+
+
+}
+
+
+.babor{
+  width: 15%;
+  border-radius: 100%;
+  border: 5px solid black;
+
+
+
+
+
+}
+h1{
+background-color: rgb(255, 255, 255);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+
+
+
+}
+.carousel-item{
+padding: 5% 10%;
+
+
+}
+body{
+padding-top: 10%;
+
+
+}
